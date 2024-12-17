@@ -5,9 +5,9 @@
 - Πως λειτουργεί (πρακτικά και θεωρητικά);
 
 ## 🔖 Περιεχόμενα
-1. 📜 **Ιστορικό & Περιγραφή**
-2. 🗃 **Ευρετήριο**
-3. 🌐 **Πηγές**
+1. [📜 **Ιστορικό & Περιγραφή**](https://github.com/Scarlett-W3/Bluesky-Guide-GR/blob/main/general.md#-%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%BA%CF%8C--%CF%80%CE%B5%CF%81%CE%B9%CE%B3%CF%81%CE%B1%CF%86%CE%AE)
+2. [🗃 **Ευρετήριο**](https://github.com/Scarlett-W3/Bluesky-Guide-GR/blob/main/general.md#-%CE%B5%CF%85%CF%81%CE%B5%CF%84%CE%AE%CF%81%CE%B9%CE%BF)
+3. [🌐 **Πηγές**](https://github.com/Scarlett-W3/Bluesky-Guide-GR/blob/main/general.md#-%CF%80%CE%B7%CE%B3%CE%AD%CF%82)
 
 ---
 # 📜 Ιστορικό & Περιγραφή
