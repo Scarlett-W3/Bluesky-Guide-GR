@@ -1,6 +1,10 @@
 # 📌 Χρήσιμα
 Μερικά χρήσιμα **links** & **resources** σχετικά με το Bluesky.
 
+## 🔖 Περιεχόμενα
+1. [#️⃣ **Feeds**](https://github.com/Scarlett-W3/Bluesky-Guide-GR/edit/main/resources.md#%EF%B8%8F%E2%83%A3-feeds)
+2. [👥️ **Λίστες**](https://github.com/Scarlett-W3/Bluesky-Guide-GR/edit/main/resources.md#-%CE%BB%CE%AF%CF%83%CF%84%CE%B5%CF%82)
+
 ---
 
 # #️⃣ Feeds
@@ -32,3 +36,22 @@
 ### 🍳 Μαγειρική & Φαγητό
 - 🔗 [**Το Feed Της Ζήμης!** | `@mbekatoros.bsky.social`](https://bsky.app/profile/did:plc:ibohu76izf6npg367aw4m2bs/feed/zymwnw)
 - 🔗 [**είμαι μακαρονάς** 🍝 | `@ynkognyto.bsky.social`](https://bsky.app/profile/did:plc:sfb2xyhju6eega4j7vvhoims/feed/aaafvqkdc6awc)
+
+---
+
+# 👥 Λίστες
+**Συλλογές** από accounts **χρηστών** που μπορεί κανείς να επιλέξει να ακολουθήσει ή αποφύγει μαζικώς.
+
+## 🫂 Follow Lists
+Λίστες με λογαριασμούς που προτείνονται προς ακολούθηση. 
+
+- 🔗 [**🇬🇷 Media** | `@chacakhan.bsky.social`](https://bsky.app/profile/did:plc:kar474joa3lghn6v4n32yhre/lists/3lcycha4fqf2p)
+- 🔗 [**🇬🇷 Journos** | `@chacakhan.bsky.social`](https://bsky.app/profile/did:plc:kar474joa3lghn6v4n32yhre/lists/3lb7vfztptr2g)  
+  Ελληνόφωνοι δημοσιογράφοι & σχετικοί οργανισμοί.
+- 🔗 [**Greek Politics** | `@chacakhan.bsky.social`](https://bsky.app/profile/did:plc:kar474joa3lghn6v4n32yhre/lists/3lbdcbjwrnx2c)
+  Κόμματα, βουλευτές, πολιτικοί.
+
+## 🚫 Moderation Lists
+Λίστες με λογαριασμούς που προτείνονται προς αποφυγή (block, mute). 
+
+- 🔗 [**Ακροδεξιοί, ακροκεντρώοι και trolls** | `‪@ekstaticx.bsky.social‬`](https://bsky.app/profile/ekstaticx.bsky.social/post/3lb64bmn6ms2d)
